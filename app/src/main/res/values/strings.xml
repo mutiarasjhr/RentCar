@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CarRent</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="orang">%1$s Orang</string>
+    <string name="hari">/ Hari</string>
+    <string name="lepas_kunci">Lepas Kunci</string>
+    <string name="gambar_mobil">Gambar Mobil</string>
+    <string name="syarat">Syarat</string>
+    <string name="isi_syarat">1. Fotokopi Kartu Tanda Penduduk (KTP). \n2. Fotokopi Surat Izin Mengemudi (SIM).</string>
+    <string name="booking">Booking</string>
+    <string name="settings">Pengaturan</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="logout">Logout</string>
+</resources>
